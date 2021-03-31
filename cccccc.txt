@@ -1,0 +1,30 @@
+<html>
+<head>
+<title>Password
+</title>
+</head>
+<body>
+<for>
+Username:<input type="text"><br>
+Password:<input type="password"><br>
+Fathers name:
+<input type="text" size="20" name="fathers name" placeholder="Fathers name">
+<br>
+Mothers name:
+<input type="text" size="20" name="mothers name" placeholder="mothers name">
+<br>
+Mumbai
+<input type="radio" size="20" name="city" value="Maharashtra" checked> I am a citizen of Mumbai in Maharashtra<br><br>
+pls add your comments<br>
+<textarea name="message" rows="10" cols="10">
+</textarea><br>
+<select>
+<option value="Adult">Adult</option>
+<option value="Teen">Teen</option>
+<option value="Kid">Kid</option>
+<option value="Toddler">Toddler</option>
+</select>
+<input type="submit">
+</form>
+</body>
+</html>
